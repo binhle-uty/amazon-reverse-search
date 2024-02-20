@@ -2,8 +2,6 @@ from google_img_source_search import ReverseImageSearcher
 import streamlit as st
 import numpy as np
 from typing import Tuple
-import plotly.express as px
-from st_keyup import st_keyup
 
 def get_reverse_search(image_url):
     rev_img_searcher = ReverseImageSearcher()
