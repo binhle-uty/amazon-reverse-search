@@ -1,0 +1,7 @@
+streamlit==1.29.0
+numpy==1.24.3
+scikit-image==0.22.0
+opencv-python-headless
+matplotlib
+plotly
+google_img_source_search==0.0.2
